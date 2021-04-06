@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="my_channel_id" type="string">MY_CHANNEL</item>
+    <item name="amount_app_open_channel_id" type="string">AMOUNT_APP_OPEN_CHANNEL</item>
+    <item name="amount_app_open_notification_id" type="integer">1</item>
 </resources>

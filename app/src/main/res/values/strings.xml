@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyForegroundService</string>
+
+    <string name="amount_app_open_content_title">Counter</string>
+    <string name="amount_app_open_content_text">Amount app openings = %d</string>
 </resources>
